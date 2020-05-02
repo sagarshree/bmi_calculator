@@ -21,7 +21,7 @@ const kBottomCardTextStyle = TextStyle(
 );
 
 const kResultTitleTextStyle = TextStyle(
-  fontSize: 50.0,
+  fontSize: 40.0,
   fontWeight: FontWeight.bold,
 );
 const kResultTextStyle = TextStyle(
